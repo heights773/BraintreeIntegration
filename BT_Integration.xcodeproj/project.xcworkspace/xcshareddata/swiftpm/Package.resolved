@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "braintree_ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/braintree/braintree_ios",
+      "state" : {
+        "branch" : "master",
+        "revision" : "c7f7cb358391b7585b145f0b7f08c8af781de427"
+      }
+    },
+    {
+      "identity" : "paypalcheckout-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/paypal/paypalcheckout-ios",
+      "state" : {
+        "revision" : "122a8a67f30b55768321e3cb3d30ce6792585063",
+        "version" : "0.100.0"
+      }
+    }
+  ],
+  "version" : 2
+}
